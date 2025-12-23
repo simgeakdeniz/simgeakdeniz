@@ -1,7 +1,7 @@
 # 👋 Merhaba, ben Simge!
 
 🎓 **Öğrenci | Python, Kotlin, C ve C# Geliştiricisi**  
-🖼️ **Görüntü İşleme Projeleri Üzerinde Çalışıyorum**
+🖼️ **Görüntü İşleme ve Mobil Uygulama Projeleri Üzerinde Çalışıyorum**
 
 ---
 

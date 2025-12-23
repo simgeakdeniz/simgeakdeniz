@@ -1,13 +1,15 @@
 # 👋 Merhaba, ben Simge!
 
-🎓 **Öğrenci | Python & Kotlin Geliştiricisi**  
-🖼️ **Görüntü İşleme ve Mobil Programlama Projeleri Üzerinde Çalışıyorum**
+🎓 **Öğrenci | Python, Kotlin, C ve C# Geliştiricisi**  
+🖼️ **Görüntü İşleme Projeleri Üzerinde Çalışıyorum**
 
 ---
 
 ## 💻 Teknolojiler & Diller
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
@@ -15,7 +17,7 @@
 
 ## 🌟 Öne Çıkan Projeler
 - **Görüntü İşleme Projesi**: Yüz algılama ve filtre uygulamaları.  
-- **Python/Kotlin Mini Projeler**: Konsol ve GUI uygulamaları.  
+- **Python/Kotlin/C/C# Mini Projeler**: Konsol ve GUI uygulamaları.  
 
 📂 Daha fazlası için: [Projelerim](https://github.com/simgeakdeniz?tab=repositories)
 
